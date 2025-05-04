@@ -67,7 +67,7 @@ export const respostas: Record<Pergunta, string> = {
   "Quais são as redes sociais da FURIA?": "Twitter: @FURIA, Instagram: @furia, YouTube: FURIA, Twitch: twitch.tv/furia",
   "Qual a line atual de CS2 da Furia?": "KSCERATO, yuurih, YEKINDAR, FalleN e molodoy.",
   "Qual a line atual de LoL da Furia?": "Guigo, Tatu, Tutsz, Ayu e Jojo.",
-  "Qual a line de Rocket League da FURIA?": "CaioTG1, Yanxnz, lostt, coach: stk.",
+  "Qual a line de Rocket League da FURIA?": "yANXNZ, Lostt, DRUFINHO.",
   "Quais são os próximos jogos da FURIA?": "CS2: FURIA vs G2 (05/05/2025), LoL: FURIA vs paiN (06/05/2025), Rocket League: RLCS Open dia 10/05/2025."
 };
 
