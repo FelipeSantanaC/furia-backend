@@ -1,4 +1,4 @@
-# 🔥 FURIA Chat Backend
+# 🔥 FURIA Chatbot Backend
 
 Este é um projeto pessoal que desenvolvi com o objetivo de simular um sistema de perguntas e respostas sobre a organização da FURIA. A API permite que usuários façam perguntas relacionadas à FURIA e recebam respostas com base em um conjunto de dados pré-definido. Também implementei uma lógica de similaridade textual para reconhecer perguntas parecidas.
 
@@ -14,7 +14,7 @@ Este é um projeto pessoal que desenvolvi com o objetivo de simular um sistema d
 ---
 
 ## 📁 Estrutura do Projeto
-
+```bash
 .
 ├── app.ts # Inicialização do Express e rotas
 ├── index.ts # Inicialização do servidor
@@ -24,8 +24,7 @@ Este é um projeto pessoal que desenvolvi com o objetivo de simular um sistema d
 │ └── chat-controller.ts # Lógica para lidar com perguntas e tópicos
 ├── data/
 │ └── respostas.ts # Base de dados estática com perguntas/respostas
-
----
+```
 
 ## 📌 Endpoints
 
@@ -95,10 +94,10 @@ http://localhost:3001/api
 ```
 
 
-##📝 Contribuição
+## 📝 Contribuição
 Sugestões, feedbacks ou melhorias são muito bem-vindos!
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 Desenvolvido por Felipe Santana – inspirado na organização da FURIA.
 
 
